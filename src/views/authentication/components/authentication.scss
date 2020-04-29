@@ -1,0 +1,64 @@
+$fontFamily: 'Roboto', sans-serif;
+
+.font-size {
+  font-size: 24px;
+  letter-spacing: -1.16px;
+  font-weight: 600;
+}
+
+.mt-20 {
+  margin-top: 20px
+}
+
+.auth-title {
+  font-family: $fontFamily;
+  font-size: 24px;
+  letter-spacing: -1.16px;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+}
+
+.chevron-left {
+  transform: rotate(180deg);
+  position: absolute;
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+.padding {
+  padding: 0 25px 0 25px;
+  font-family: $fontFamily;
+  @media screen and (max-width: 761px) {
+    padding: 0 15px;
+  }
+}
+
+.bg-color {
+  font-family: $fontFamily;
+  background: rgb(249, 249, 249);
+}
+
+.auth-wrapper {
+  font-family: $fontFamily;
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 24px 0px;
+  padding: 0;
+  margin: 0;
+}
+
+.form-container {
+  font-family: $fontFamily;
+  background: rgb(249, 249, 249);
+  padding: 10px 0 20px;
+  @media screen and (max-width: 761px) {
+    background: rgb(255, 255, 255);
+    box-shadow: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .form-wrapper {
+    box-shadow: none;
+  }
+}

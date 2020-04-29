@@ -1,7 +1,11 @@
+import'bootstrap/dist/css/bootstrap.min.css';
+import $ from'jquery'; // eslint-disable-line
+import Popper from 'popper.js'; // eslint-disable-line
+import'bootstrap/dist/js/bootstrap.bundle.min';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './index.scss';
+import App from './app/App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(

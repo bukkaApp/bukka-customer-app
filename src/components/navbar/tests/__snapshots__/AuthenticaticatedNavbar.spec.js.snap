@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Primary Navbar renders properly 1`] = `ShallowWrapper {}`;

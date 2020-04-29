@@ -1,0 +1,14 @@
+.intro-navbar-area {
+  background-color: #9c1c26;
+  position: sticky;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  z-index: 400;
+  transition: background-color 0.2s ease-in-out 0s;
+  .navbar {
+    a {
+      color: white
+    }
+  }
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "deliveryTime": "40-50 min",
+    "title": "burger",
+    "deliveryPrice": 300,
+    "imageUrl": "https://res.cloudinary.com/deqt3envc/image/upload/v1556741830/samples/Bukka-Images/carousel-burger-img.png",
+    "rating": "popular",
+    "subHeading": "order now",
+    "_id": "02994249",
+    "position": {
+      "top": true
+    }
+  },
+  {
+    "deliveryTime": "40-50 min",
+    "title": "ice dougnut",
+    "deliveryPrice": 300,
+    "imageUrl": "https://res.cloudinary.com/deqt3envc/image/upload/v1556741830/samples/Bukka-Images/carousel-ice-dougnut.png",
+    "rating": "popular",
+    "subHeading": "order now",
+    "_id": "0234594249",
+    "position": {
+      "top": true
+    }
+  },
+  {
+    "deliveryTime": "40-50 min",
+    "title": "alcholic drinks",
+    "deliveryPrice": 300,
+    "imageUrl": "https://res.cloudinary.com/deqt3envc/image/upload/v1556741830/samples/Bukka-Images/carousel-alcholic-drinks.png",
+    "rating": "popular",
+    "heading": "Get Drinks",
+    "_id": "029992034249",
+    "subHeading": "ALCOHOL DELIVERED",
+    "position": { "top": true }
+  },
+  {
+    "deliveryTime": "40-50 min",
+    "title": "fruits",
+    "deliveryPrice": 300,
+    "imageUrl": "https://res.cloudinary.com/deqt3envc/image/upload/v1556741830/samples/Bukka-Images/carousel-fruits.png",
+    "rating": "popular",
+    "heading": "Get Fresh",
+    "_id": "029273561249",
+    "subHeading": "Groceries Delivered",
+    "position": { "top": true }
+  },
+  {
+    "deliveryTime": "40-50 min",
+    "title": "free burger",
+    "deliveryPrice": 300,
+    "_id": "0299425723234",
+    "imageUrl": "https://res.cloudinary.com/deqt3envc/image/upload/v1556741830/samples/Bukka-Images/carousel-free-burger.png",
+    "rating": "popular",
+    "heading": "Get All Orders Delivered Free",
+    "subHeading": "TRY UNLIMITED",
+    "textPositionBottom": true
+  }
+]

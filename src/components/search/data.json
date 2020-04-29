@@ -1,0 +1,73 @@
+{
+  "defaultSearch": [
+    "american",
+    "italian",
+    "bakery",
+    "juice bars",
+    "breakfast",
+    "korean",
+    "burger",
+    "mediterranian",
+    "chinese",
+    "mexican",
+    "coffee",
+    "pizza",
+    "desert",
+    "sea food",
+    "fast food",
+    "thai",
+    "indian",
+    "vegetarian"
+  ],
+  "searchData": [
+    {
+      "type": "pickup",
+      "title": "pizza king",
+      "slug": "pizza-king-1",
+      "location": "12, coker road",
+      "items": ["pizza", "chicken pizza", "meaty pizza"]
+    },
+    {
+      "type": "pickup",
+      "title": "shawamma",
+      "slug": "shawamma-1",
+      "location": "14, wilmer str",
+      "items": ["shawamma", "orange juice", "pineapple juice"]
+    },
+    {
+      "type": "delivery",
+      "title": "The Mexican Taqueria",
+      "slug": "The-Mexican-Taqueria-1",
+      "location": "55, coker road",
+      "items": ["salad", "The Mexican Taqueria","sauce","chicken", "jollof rice", "fried rice"]
+    },
+    {
+      "type": "delivery",
+      "title": "chicken republic",
+      "slug": "chicken-republic-1",
+      "location": "55, coker road",
+      "items": ["salad","sauce","chicken", "jollof rice", "fried rice"]
+    },
+    {
+      "type": "items",
+      "title": "popson",
+      "slug": "popson-1",
+      "location": "14, wilmer str",
+      "items": ["candy", "orange"]
+    },
+    {
+      "type": "items",
+      "title": "pizza",
+      "slug": "pizza-12-1",
+      "location": "14, wilmer str",
+      "items": ["candy", "orange"]
+    },
+    {
+      "type": "delivery",
+      "slug": "bakery-12-1",
+      "title": "bakery",
+      "location": "12, coker road",
+      "items": ["jack in the box", "bread"]
+    }
+  ]
+}
